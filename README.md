@@ -8,7 +8,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-226392207/) 
 
 
+
+
 ### Tecnologias que uso no meu dia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Lv)](https://github.com/Felipe-Lv/github-readme-stats)
+
 
 <div style="display: inline_block"></br>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
