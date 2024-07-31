@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Lv)](https://github.com/Felipe-Lv/github-readme-stats)
 
 <img width='288px' src="https://github-readme-stats.vercel.app/api?username=Felipe-Lv&show_icons=true&theme=radical" />
-<img width='288px' src="[https://github-readme-stats.vercel.app/api?username=Felipe-Lv&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Lv&theme=radical&show_icons=true)" />
 
 
 <div style="display: inline_block"></br>
