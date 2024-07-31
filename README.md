@@ -12,7 +12,7 @@
 
 ### Tecnologias que uso no meu dia
 <div styled="display: flex">
-<img width='288px' src="https://github-readme-stats.vercel.app/api?username=Felipe-Lv&show_icons=true&theme=radical" />
+<img width='288px' height='300px' src="https://github-readme-stats.vercel.app/api?username=Felipe-Lv&show_icons=true&theme=radical" />
 <img width='288px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Lv&theme=radical&show_icons=true" />
 </div>
 
