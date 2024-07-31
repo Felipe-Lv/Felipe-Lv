@@ -14,7 +14,7 @@
 <div styled="display: flex">
 <img width='288px' src="https://github-readme-stats.vercel.app/api?username=Felipe-Lv&show_icons=true&theme=radical" />
 <img width='288px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Lv&theme=radical&show_icons=true" />
-</div>div>
+</div>
 
 <div style="display: inline_block"></br>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
