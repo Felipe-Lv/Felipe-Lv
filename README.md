@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe-Lv&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Felipe-Lv&theme=radical&locale=pt_BR" />
 </p>
 
 ---
